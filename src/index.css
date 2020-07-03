@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.c-container {
+    padding: 0 2rem;
+}
+
+/* Helpers */
+
+.material-icons {
+   font-size: inherit;
+   position: relative;
+   top: 0.3rem;
+}

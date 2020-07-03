@@ -1,0 +1,12 @@
+# Build
+
+# Base
+node_modules/*
+
+npm-debug.log*
+npm-debug.log
+
+BrowserStackLocal
+
+# Other:
+.DS_Store
